@@ -36,3 +36,59 @@
     transform: rotate(360deg);
   }
 }
+
+.list {
+  border: 1px solid black;
+    width: 200px;
+    border-radius: 5px;
+    height: 19px;
+    margin: 10px;
+    text-align: center;
+    padding: 3px 7px 7px 5px;
+}
+
+.ulist
+{
+  list-style-type: none;
+  margin: 0 auto;
+  width: 230px;
+}
+
+.header{
+  margin-bottom: 5px;
+  margin-top: 5px;
+  font-style: italic;
+  font-weight: bold;
+  color: DARKGREEN;
+  position: relative;
+  text-align: center;
+
+}
+
+.button{
+  margin-left: 5px;
+    font-weight: bold;
+    background-color: lightgray;
+    color: blue;
+    height: 36px;
+    width: 57px;
+    font-size: 17px;
+}
+
+.textbox{
+
+  margin-left: 202px;
+    height: 30px;
+    width: 309px;
+    border-radius: 2px;
+}
+
+.correct{
+  color : green;
+}
+
+.incorrect{
+
+
+  color:red;
+}
